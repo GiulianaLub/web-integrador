@@ -34,4 +34,4 @@ Playfair Display: https://fonts.google.com/share?selection.family=Playfair+Displ
 3. #0D0D0D
 
 ### 3. Images
-<img src"DRAWIO-Página-6.drawio">
+
