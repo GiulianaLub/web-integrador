@@ -22,6 +22,8 @@ blog de moda,belleza,deporte,salud mental y fisica
 5. item 5. Style: pantalla divida por nota diseño de tarjeta vertical
 6. item 6. Recipes: pantalla divida por nota diseño de tarjeta vertical
 7. item 7. About:pantalla  completa
+### Wireframe 
+
 
 ## Diseño UI
 ### 1. Fonts
