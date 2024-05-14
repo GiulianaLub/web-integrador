@@ -29,23 +29,8 @@ Times new roman
 Playfair Display: https://fonts.google.com/share?selection.family=Playfair+Display:ital,wght@0,400..900;1,400..900
 
 ### 2. Colors
-/* Color Theme Swatches in Hex */
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-1-hex { color: #40403F; }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-2-hex { color: #8C8C8C; }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-3-hex { color: #F2F1F0; }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-4-hex { color: #BFBFBD; }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-5-hex { color: #0D0D0D; }
+1. #737372
+2. #A6A5A4
+3. #0D0D0D
 
-/* Color Theme Swatches in RGBA */
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-1-rgba { color: rgba(64, 64, 63, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-2-rgba { color: rgba(140, 140, 140, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-3-rgba { color: rgba(242, 241, 240, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-4-rgba { color: rgba(191, 191, 189, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-5-rgba { color: rgba(13, 13, 13, 1); }
-
-/* Color Theme Swatches in HSLA */
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-1-hsla { color: hsla(60, 0, 24, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-2-hsla { color: hsla(0, 0, 54, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-3-hsla { color: hsla(30, 7, 94, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-4-hsla { color: hsla(60, 1, 74, 1); }
-.color-theme_Black-Ivory-Minimalist-Elegant-Script-Personal-Name-Logo-5-hsla { color: hsla(0, 0, 5, 1); }
+### 3. Images
