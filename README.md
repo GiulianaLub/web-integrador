@@ -41,13 +41,18 @@ Playfair Display: https://fonts.google.com/share?selection.family=Playfair+Displ
 ### 4. wireframe
 Pagina 1 : Inicio
 ![imageninicio](/imagenes/wireframe/DRAWIO-Página-1.drawio.png)
+
 Pagina 2: Fitness
 ![imagenfitness](/imagenes/wireframe/DRAWIO-Página-2.drawio.png)
+
 Pagina 3: style
 !![imagenstyle](/imagenes/wireframe/DRAWIO-Página-3.drawio.png)
+
 Pagina 4: travel 
 ![imagentravel](/imagenes/wireframe/DRAWIO-Página-5.drawio.png)
+
 Pagina 5: recipes
 ![imagenrecipes](/imagenes/wireframe/DRAWIO-Página-5.drawio.png)
+
 Pagina 6: about
 ![iamgenabout](/imagenes/wireframe/DRAWIO-Página-6.drawio.png)
