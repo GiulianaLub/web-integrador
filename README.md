@@ -28,8 +28,7 @@ blog de moda,belleza,deporte,salud mental y fisica
 ## Diseño UI
 ### 1. Fonts
 Times new roman
-Playfair Display: https://fonts.google.com/share?selection.family=Playfair+Display:ital,wght@0,400..900;1,400..900
-
+Verdana
 ### 2. Colors
 1. #737372
 2. #A6A5A4
