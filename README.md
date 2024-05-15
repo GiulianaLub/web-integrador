@@ -35,5 +35,7 @@ Playfair Display: https://fonts.google.com/share?selection.family=Playfair+Displ
 2. #A6A5A4
 3. #0D0D0D
 
-### 3. Images
+### 3. Imagenes
+![imagenlogo](/imagenes/Black%20Ivory%20Minimalist%20Elegant%20Script%20Personal%20Name%20Logo.png)
+
 
