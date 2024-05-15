@@ -52,7 +52,7 @@ Pagina 3: Style
 
 
 Pagina 4: Travel 
-![imagentravel](/imagenes/wireframe/DRAWIO-Página-5.drawio.png)
+![imagentravel](/imagenes/wireframe/DRAWIO-Página-4.drawio.png)
 
 
 Pagina 5: Recipes
