@@ -22,7 +22,29 @@ blog de moda,belleza,deporte,salud mental y fisica
 5. Style: pantalla divida por nota diseño de tarjeta vertical
 6. Recipes: pantalla divida por nota diseño de tarjeta vertical
 7. About:pantalla  completa
-### Wireframe 
+### 4. Wireframe 
+Pagina 1 : Inicio
+![imageninicio](/imagenes/wireframe/PAGINA%201%20INICIO.drawio.png)
+
+
+Pagina 2: Fitness
+![imagenfitness](/imagenes/wireframe/PAGINA%202%20FITNESS.drawio.png)
+
+
+Pagina 3: Style
+![imagenstyle](/imagenes/wireframe/PAGINA%203%20STYLE.drawio.png)
+
+
+Pagina 4: Travel 
+![imagentravel](/imagenes/wireframe/PAGINA%204%20TRAVEL.drawio.png)
+
+
+Pagina 5: Recipes
+![imagenrecipes](/imagenes/wireframe/PAGINA%205%20RECIPES.drawio.png)
+
+
+Pagina 6: About
+![imagenabout](/imagenes/wireframe/PAGINA%206%20ABOUT.drawio.png)
 
 
 ## Diseño UI
