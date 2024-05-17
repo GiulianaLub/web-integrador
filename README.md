@@ -6,7 +6,7 @@ publico objetivo: mujeres jovenes interesadas en leer un blog de tematicas como 
 
 objetivo de la página: informar,entretener
 ### 2. Ideas del cliente y contenido
-blog de moda,belleza,deporte,salud mental y fisica
+blog de moda,belleza,deporte, y bienestar
 1. Inicio: logo,foto descriptiva de cada tematica y su nombre
 2. Fitness: notas e imagenes descriptivas de la tematica
 3. Style: notas e imagenes descriptivas de la tematica
