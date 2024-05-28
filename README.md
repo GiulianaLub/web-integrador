@@ -8,42 +8,20 @@ objetivo de la página: informar,entretener
 ### 2. Ideas del cliente y contenido
 blog de moda,belleza,deporte, y bienestar
 1. Inicio: logo,foto descriptiva de cada tematica y su nombre
-2. Fitness: notas e imagenes descriptivas de la tematica
-3. Style: notas e imagenes descriptivas de la tematica
-4. Recipes: notas e imagenes descriptivas de la tematica
-5. Travel:notas e imagenes descriptivas de la tematica
-6. About: sobre el blog
+2. Notas: notas e imagenes descriptivas de la tematicas
+3. slogan: nlogo y slogan del blog
+4. contacto: seccion contacto de expectadores del blog
 ### 3. Representacion de cada seccion
 1. inicio: Logo,centrado, fotos descriptivas de las tematicas estilo de tarjetas,pantalla partida de nota y imagen de la nota
-2. Fitness: pantalla divida por nota diseño de tarjeta vertical
-3. Travel:  pantalla divida por nota diseño de tarjeta vertical
-4. Style: pantalla divida por nota diseño de tarjeta vertical
-5. Recipes: pantalla divida por nota diseño de tarjeta vertical
-6. About:pantalla  completa
+2. Notas: pantalla divida por nota diseño de tarjeta vertical
+3. slogan:  pantalla divida por imagenes
+4. contacto: pantalla completa
+
 ### 4. Wireframe 
 Pagina 1 : Inicio
 ![imageninicio](/imagenes/wireframe/PAGINA%201%20INICIO.drawio.png)
 
-
-Pagina 2: Fitness
-![imagenfitness](/imagenes/wireframe/PAGINA%202%20FITNESS.drawio.png)
-
-
-Pagina 3: Style
-![imagenstyle](/imagenes/wireframe/PAGINA%203%20STYLE.drawio.png)
-
-
-Pagina 4: Travel 
-![imagentravel](/imagenes/wireframe/PAGINA%204%20TRAVEL.drawio.png)
-
-
-Pagina 5: Recipes
-![imagenrecipes](/imagenes/wireframe/PAGINA%205%20RECIPES.drawio.png)
-
-
-Pagina 6: About
-![imagenabout](/imagenes/wireframe/PAGINA%206%20ABOUT.drawio.png)
-
+![imagencontacto](/imagenes/wireframe/PAGINA%202%20contacto.drawio%20(1).png)
 
 ## Diseño UI
 ### 1. Fonts
