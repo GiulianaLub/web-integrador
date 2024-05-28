@@ -9,18 +9,21 @@ objetivo de la página: informar,entretener
 blog de moda,belleza,deporte, y bienestar
 1. Inicio: logo,foto descriptiva de cada tematica y su nombre
 2. Notas: notas e imagenes descriptivas de la tematicas
-3. slogan: nlogo y slogan del blog
-4. contacto: seccion contacto de expectadores del blog
+3. Slogan: nlogo y slogan del blog
+4. Contacto: seccion contacto de expectadores del blog
 ### 3. Representacion de cada seccion
 1. inicio: Logo,centrado, fotos descriptivas de las tematicas estilo de tarjetas,pantalla partida de nota y imagen de la nota
 2. Notas: pantalla divida por nota diseño de tarjeta vertical
-3. slogan:  pantalla divida por imagenes
-4. contacto: pantalla completa
+3. Slogan:  pantalla divida por imagenes
+4. Contacto: pantalla completa
 
 ### 4. Wireframe 
 Pagina 1 : Inicio
-![imageninicio](/imagenes/wireframe/PAGINA%201%20INICIO.drawio.png)
+![imageninicio](/imagenes/wireframe/PAGINA%201%20inicio-Page-1.drawio.png)
 
+
+
+Pagina 2: Contacto
 ![imagencontacto](/imagenes/wireframe/PAGINA%202%20contacto.drawio%20(1).png)
 
 ## Diseño UI
