@@ -9,7 +9,7 @@ objetivo de la página: informar,entretener
 blog de moda,belleza,deporte, y bienestar
 1. Inicio: logo,foto descriptiva de cada tematica y su nombre
 2. Notas: notas e imagenes descriptivas de la tematicas
-3. Slogan: nlogo y slogan del blog
+3. Slogan: logo y slogan del blog
 4. Contacto: seccion contacto de expectadores del blog
 ### 3. Representacion de cada seccion
 1. inicio: Logo,centrado, fotos descriptivas de las tematicas estilo de tarjetas,pantalla partida de nota y imagen de la nota
