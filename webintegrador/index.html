@@ -16,26 +16,44 @@
     <meta name="twitter :title" content="Evolveblog">
     <meta name="twitter:desciption" content=" blog de fitness,style,recipes,travel">
     <style>
-        header {
-            background-color: whitesmoke
-            
+        header{
+            background-color: whitesmoke;
+            display: flex;
+            flex-flow: row;row-gap;
+            justify-content: space-between;
+            padding: 5px 10px;
         }
         body{
-            margin:0px
+            margin:0px;
+            padding:0px;
+        
         }
+        nav{
+            border: 1px whitesmoke,solid;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
 
-        header img {
-            width: 20%;
-            margin-left: 50px
+        }
+        nav ul{
+            display: flex;
+            list-style: none;
+            margin: 5px;
         }
         #slogan {
             margin-left: 150px;
         } 
         nav > ul> li{
-            display: inline-block;
+            margin: 10 px; 
         }
         a{
             text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+        header img{
+            height: 100px;
+            margin-left: 0px;;
         }
     </style>
 </head>
@@ -45,7 +63,6 @@
         <a href="/webintegrador/index.html">
             <img src="/imagenes/Black Ivory Minimalist Elegant Script Personal Name Logo (1).png" alt="logo">
         </a>
-
         <nav>
             <ul>
                 <li>
