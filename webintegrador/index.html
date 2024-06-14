@@ -45,7 +45,10 @@
             margin: 20px;
         }
         #slogan {
-            margin-left: 150px;
+            background-color: whitesmoke;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         } 
         nav ul li a{
             margin:20px; 
@@ -58,6 +61,53 @@
         header img{
             height: 100px;
             margin-left: 0px;;
+        }
+        #section-notas{
+            background-color:whitesmoke;
+            padding-top: 10px 0px;
+        }
+        .container{
+            display: flex;
+            justify-content: center;
+            align-items: stretch;
+        }
+        .col-nota{
+            width: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .col-img{
+            width: 50%;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        #section-notas img{
+            width: 50vh;
+            height: 50vh;
+        }
+        h2{
+            margin:0px;
+        }
+        .card{
+            display: flex;
+            
+        }
+        .card img{
+           display: flex;
+           width: 330px;
+           height: 330px;
+           padding-top: 15px;
+           padding-bottom: 15px;
+           padding-right: 15px;
+           padding-left: 20px;
+           justify content:center;
+           align-items: center;
+           border: 0px;
+           margin:0px;
+
+
         }
     </style>
 </head>
@@ -82,51 +132,61 @@
         </nav>
     </header>
     <main>
-        <section id="section-presentacion">
-            <img src="/imagenes/recipes 1.jpg" alt="recetas" height="327" width="327">
-            <img src="/imagenes/style 1.jpg" alt="estilo" height="327" width="327">
-            <img src="/imagenes/travel.jpg" alt="viajar" height="327" width="327">
-            <img src="/imagenes/beauty.jpg" alt="belleza" height="327" width="327">
+        <section id="galeria">
+            <div class="card">
+                <img src="/imagenes/recipes 1.jpg" alt="recetas">
+                <img src="/imagenes/style 1.jpg" alt="estilo">
+                <img src="/imagenes/travel.jpg" alt=" viajar">
+                <img src="/imagenes/beauty.jpg" alt=" belleza">
+            </div>
         </section>
         <section id="section-notas">
             <div>
                 <h2> Nota tematica 1</h2>
-                <div>
-                    <h3> Nombre de la nota 1</h3>
-                    <img src="/imagenes/recipes 1.jpg"alt = "imagen tematica 1">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perspiciatis maiores, nihil
-                        amet velit consequatur sunt natus quibusdam error totam voluptate rem unde. Laboriosam natus
-                        maiores obcaecati accusamus possimus tempore.</p>
+                <div class="container">
+                    <div class="col-img">
+                     <img src="/imagenes/recipes 1.jpg" alt="=imagen tematica 1">
+                    </div>
+                    <div class="col-nota">
+                        <h3> titulo de la nota </h3>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus nostrum possimus maiores repudiandae rerum incidunt dolorum iusto doloremque earum mollitia fuga veniam ratione blanditiis laboriosam quam eaque, omnis, facere iure?</p>
+                    </div>
                 </div>
             </div>
             <div>
                 <h2> Nota tematica 2</h2>
-                <div>
-                    <h3>Nombre de la nota 2</h3>
-                    <img src="/imagenes/style 1.jpg"alt="imagen tematica 2">
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est necessitatibus fuga delectus illum
-                        ut dolores minus. Facere blanditiis est consequuntur optio dolore, molestiae dolorem hic
-                        ducimus. Deserunt praesentium animi omnis.</p>
+                <div class="container">
+                    <div class="col-img">
+                        <img src="/imagenes/style 1.jpg" alt="imagen tematica 2">
+                    </div>
+                    <div class="col-nota">
+                        <h3> titulo de la nota</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum accusantium dolore id nesciunt dolorum reprehenderit repudiandae odit voluptatem non repellat. Minus reiciendis commodi possimus quibusdam adipisci at sit quae laudantium!</p>
+                    </div>
                 </div>
             </div>
             <div>
                 <h2> Nota tematica 3 </h2>
-                <div>
-                    <h3> Nombre de la nota 3</h3>
-                    <img src="/imagenes/travel.jpg" alt="imagen temtica 3">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem alias minima laboriosam
-                        necessitatibus et tenetur commodi illo recusandae, odit excepturi expedita dolores ducimus earum
-                        porro quam ut architecto maiores delectus.</p>
+                <div class="container">
+                    <div class="col-img">
+                        <img src="/imagenes/travel.jpg" alt="imagen tematica 3">
+                    </div>
+                    <div class="col-nota">
+                        <h3> titulo nota</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero repellat, itaque, eveniet iusto doloribus autem nam praesentium eum accusamus voluptas quibusdam similique officiis. Et eaque ipsum eveniet, repudiandae officia voluptatum.</p>
+                    </div>
                 </div>
             </div>
             <div>
                 <h2> Nota tematica 4</h2>
-                <div>
-                    <h3> Nombre de la nota 4</h3>
-                    <img src="/imagenes/beauty.jpg" alt="imagen tematica 4">
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum obcaecati reiciendis adipisci
-                        fuga quod magnam, iste pariatur dignissimos, harum excepturi veritatis commodi deserunt
-                        voluptate eos animi iure, officiis ut facere.</p>
+                <div class="container">
+                    <div class="col-img">
+                        <img src="/imagenes/beauty.jpg" alt="imagen tematica 4">
+                    </div>
+                    <div class="col-nota">
+                        <h3> titulo nota</h3>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut ex quam mollitia ipsam veritatis quo, temporibus, minus suscipit sint quod ad molestias quibusdam consequatur velit in cum expedita harum!</p>
+                    </div>
                 </div>
             </div>
         </section>
