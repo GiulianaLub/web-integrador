@@ -37,6 +37,6 @@ Verdana
 3. #0D0D0D
 
 ### 3. Imagenes
-![imagenlogo](/imagenes/Black%20Ivory%20Minimalist%20Elegant%20Script%20Personal%20Name%20Logo.png)
+![imagenlogo](/imagenes/Black%20Ivory%20Minimalist%20Elegant%20Script%20Personal%20Name%20Logo%20(1).png)
 
 
