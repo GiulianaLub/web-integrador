@@ -36,20 +36,18 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
+            
         }
         nav ul{
             display: flex;
             list-style: none;
             margin: 20px;
+            font-weight: bold;
+            
         }
-        #slogan {
-            background-color: whitesmoke;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        } 
         nav ul li a{
             margin:20px; 
+            color:black;
         }
         a{
             text-decoration: none;
@@ -62,7 +60,6 @@
         }
         #section-notas{
             background-color:whitesmoke;
-            padding-top: 10px 0px;
         }
         .container{
             display: flex;
@@ -76,34 +73,52 @@
             align-items: center;
             flex-direction: column;
         }
+        .col-nota h3  {
+            width:100%;
+        }
+        .col-nota p{
+            width:100%;
+        }
         .col-img{
             width: 50%;
             padding-top: 10px;
             padding-bottom: 10px;
         }
-        #section-notas img{
-            width: 50vh;
-            height: 50vh;
+        .col-img img{
+            width: 50%;
         }
         h2{
             margin:0px;
+            padding: 10px 10px 10px 10px;
+            border-style: groove;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: whitesmoke;
+            color: black;
         }
         .card{
             display: flex;
+            justify-content: center;
+            align-items: center;
         }
         .card img{
            display: flex;
-           width: 330px;
-           height: 330px;
            padding-top: 15px;
            padding-bottom: 15px;
-           padding-right: 15px;
-           padding-left: 20px;
+           padding-right: 5px;
+           padding-left: 5px;
            justify-content: center;
            align-items: center;
            border: 0px;
            margin:0px;
         }
+        #slogan {
+            background-color: whitesmoke;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        } 
         footer div{
             display: flex;
             justify-content: space-around;
@@ -129,7 +144,7 @@
         <nav>
             <ul>
                 <li>
-                    <a href="#section-presentacion"> Presentacion</a>
+                    <a href="#galeria"> Presentacion</a>
                 </li>
                 <li>
                     <a href="#section-notas">Notas</a>
@@ -143,57 +158,57 @@
     <main>
         <section id="galeria">
             <div class="card">
-                <img src="./imagenes/recipes 1.jpg" alt="recetas">
-                <img src="./imagenes/style 1.jpg" alt="estilo">
-                <img src="./imagenes/travel.jpg" alt=" viajar">
-                <img src="./imagenes/beauty.jpg" alt=" belleza">
+                <img src="./imagenes/receta.png" alt="recetas">
+                <img src="./imagenes/moda.png" alt="estilo">
+                <img src="./imagenes/viajes.png" alt=" viajar">
+                <img src="./imagenes/belleza.1.jpg" alt=" belleza">
             </div>
         </section>
         <section id="section-notas">
             <div>
-                <h2> Nota tematica 1</h2>
+                <h2> Tematica 1</h2>
                 <div class="container">
                     <div class="col-img">
-                     <img src="./imagenes/recipes 1.jpg" alt="=imagen tematica 1">
+                     <img src="./imagenes/receta.png" alt="=imagen tematica 1">
                     </div>
                     <div class="col-nota">
-                        <h3> titulo de la nota </h3>
+                        <h3> Titulo de la nota </h3>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus nostrum possimus maiores repudiandae rerum incidunt dolorum iusto doloremque earum mollitia fuga veniam ratione blanditiis laboriosam quam eaque, omnis, facere iure?</p>
                     </div>
                 </div>
             </div>
             <div>
-                <h2> Nota tematica 2</h2>
+                <h2>  Tematica 2</h2>
                 <div class="container">
                     <div class="col-img">
-                        <img src="./imagenes/style 1.jpg" alt="imagen tematica 2">
+                        <img src="./imagenes/moda.png" alt="imagen tematica 2">
                     </div>
                     <div class="col-nota">
-                        <h3> titulo de la nota</h3>
+                        <h3> Titulo de la nota</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum accusantium dolore id nesciunt dolorum reprehenderit repudiandae odit voluptatem non repellat. Minus reiciendis commodi possimus quibusdam adipisci at sit quae laudantium!</p>
                     </div>
                 </div>
             </div>
             <div>
-                <h2> Nota tematica 3 </h2>
+                <h2>  Tematica 3 </h2>
                 <div class="container">
                     <div class="col-img">
-                        <img src="./imagenes/travel.jpg" alt="imagen tematica 3">
+                        <img src="./imagenes/viajes.png" alt="imagen tematica 3">
                     </div>
                     <div class="col-nota">
-                        <h3> titulo nota</h3>
+                        <h3> Titulo de la nota</h3>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero repellat, itaque, eveniet iusto doloribus autem nam praesentium eum accusamus voluptas quibusdam similique officiis. Et eaque ipsum eveniet, repudiandae officia voluptatum.</p>
                     </div>
                 </div>
             </div>
             <div>
-                <h2> Nota tematica 4</h2>
+                <h2> Tematica 4</h2>
                 <div class="container">
                     <div class="col-img">
-                        <img src="./imagenes/beauty.jpg" alt="imagen tematica 4">
+                        <img src="./imagenes/belleza.1.jpg" alt="imagen tematica 4">
                     </div>
                     <div class="col-nota">
-                        <h3> titulo nota</h3>
+                        <h3> Titulo de la  nota</h3>
                         <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut ex quam mollitia ipsam veritatis quo, temporibus, minus suscipit sint quod ad molestias quibusdam consequatur velit in cum expedita harum!</p>
                     </div>
                 </div>
